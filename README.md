@@ -27,8 +27,6 @@ An end-to-end **Online Book Store** application built using **React, Tailwind CS
 - Dashboard overview
 - Add, edit, delete books
 - View all registered users
-- Ban or unban users
-- View top-selling books
 
 ---
 
